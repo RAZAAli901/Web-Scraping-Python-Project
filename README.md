@@ -1,6 +1,9 @@
 # Web Scraping Python Project
                                                                     Click Me
-  View the Interactive Project Dashboard -----> <a href="https://razaali901.github.io/Web-Scraping-Python-Project/" target="_blank"> <-----
+                                                                       |
+                                                                       |
+                                                                       ▼
+  View the Interactive Project Dashboard   <a href="https://razaali901.github.io/Web-Scraping-Python-Project/" target="_blank"> 
   <img src="https://img.shields.io/badge/View_Demo-Interactive_Dashboard-blue?style=for-the-badge&logo=python" alt="Interactive Dashboard">
 </a>
 
