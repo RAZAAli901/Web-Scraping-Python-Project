@@ -3,9 +3,11 @@
                                                                        |
                                                                        |
                                                                        ▼
-  View the Interactive Project Dashboard   <a href="https://razaali901.github.io/Web-Scraping-Python-Project/" target="_blank"> 
-  <img src="https://img.shields.io/badge/View_Demo-Interactive_Dashboard-blue?style=for-the-badge&logo=python" alt="Interactive Dashboard">
-</a>
+  View the Interactive Project Dashboard   <p align="center">
+  <a href="https://razaali901.github.io/Web-Scraping-Python-Project/" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE_DEMO-Interactive_Dashboard-1d6fcc?style=for-the-badge&logo=python&logoColor=white" alt="Live Demo">
+  </a>
+</p>
 
 
 A structured collection of real-world scrapers targeting **Dawn News**, **PSX**, **QS Rankings**, **Daraz**, and **Goodreads** — with automated report exports.
